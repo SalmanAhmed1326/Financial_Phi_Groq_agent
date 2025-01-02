@@ -20,7 +20,8 @@ This repository provides a Python-based **Finance Agent** leveraging the **Phida
 4. **Environment Management**: Configured via `.env` file for secure API key handling.
 
 ---
-
+## Note : Please create .env file in working directory and keep your Groq and Phidata Api Key in it.
+----
 ## **Command to Run Agent**
 
 ```bash
